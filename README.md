@@ -51,7 +51,5 @@ Currently, I am focusing on learning and mastering:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullrahman811&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullrahman811&layout=compact&theme=gruvbox)
 
 Thank you for stopping by! I look forward to connecting, collaborating, and growing alongside this supportive GitHub community.
